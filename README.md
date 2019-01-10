@@ -81,4 +81,4 @@ You can do the following to see how the job behaves.
     	1. Open Glue> Jobs > Edit your Job> Job parameters near the bottom
     	2. Set the following:
       		   key: --conf
-		   value: spark.driver.memory=10g --conf spark.yarn.executor.memoryOverhead=1024
+		          value: spark.driver.memory=10g --conf spark.yarn.executor.memoryOverhead=1024
